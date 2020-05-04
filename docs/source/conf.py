@@ -23,7 +23,8 @@ author = 'satheesh.m'
 
 # The full version, including alpha/beta/rc tags
 release = '2020'
-
+source_suffix = '.rst'
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
